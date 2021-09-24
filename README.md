@@ -1,5 +1,7 @@
 # Merge-Conflits
-Exercice Git/GitHub 5 : Merge &amp; Conflits
+Exercice Git/GitHub 5 : Merge &amp; Conflits  
+
+REMOTE  
 
 Atque, ut Tullius ait, ut etiam ferae fame monitae plerumque ad eum locum ubi aliquando  
 pastae sunt revertuntur, ita homines instar turbinis degressi montibus impeditis et arduis  
